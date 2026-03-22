@@ -1,1 +1,3 @@
-style.css
+*.json
+/directory/
+.env
